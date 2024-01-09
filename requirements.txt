@@ -5,4 +5,4 @@ numpy==1.24.2
 tldextract==3.4.0
 validators==0.20.0
 scikit-learn==1.2.2
-Flask==2.2.3
+Flask==2.2.5
