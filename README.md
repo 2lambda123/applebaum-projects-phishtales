@@ -34,7 +34,7 @@ After that, in a command line, run the following:
 
 `python -m flask --app app run`
 
-The output should provide you with the IP to navigate to for the website.
+The output should provide you with the IP to navigate to for the website and also contains the error messages related to the failed GitHub Actions run.
 
 
 ### Chrome Extension
