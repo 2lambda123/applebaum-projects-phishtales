@@ -1,4 +1,14 @@
-# Website
+# Troubleshooting
+## Common Issues with GitHub Actions
+
+If you encounter issues with the GitHub Actions run, follow the steps below to troubleshoot and resolve the problem:
+
+1. Check the GitHub Actions Workflow File
+2. Review the Error Logs
+3. Verify Environment Variables and Secrets
+4. Analyze and Modify Workflow Files
+5. Test the Workflow Locally
+6. Reach Out for Support and Documentation
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -24,7 +34,15 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+### Analyzing Error Logs
+
+To analyze the error logs and identify the cause of the issue, follow these steps:
+
+1. Locate the Error Logs
+2. Review the Error Messages
+3. Check for Environment-Specific Errors
+4. Search for Solutions in Documentation and Forums
+5. Utilize GitHub Actions Troubleshooting Tools
 
 Using SSH:
 
